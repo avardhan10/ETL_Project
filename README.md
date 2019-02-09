@@ -18,5 +18,5 @@ One of the challenges for this project were the names of the universities were n
 
 
 Loading Database
-The relational database of MYSQL was used for our project. The ORM SQLAlchemy for Python was used to communicate with the MYSQL database. We created database  ETLProject and used university as the table name into MYSQL. 
+The relational database of MYSQL was used for our project. The ORM SQLAlchemy for Python was used to communicate with the MYSQL database. We created database  ETLProject and used university as the table name into MYSQL. We uploaded the scheme file which contains only 1 table. 
 
